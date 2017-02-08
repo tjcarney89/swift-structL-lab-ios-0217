@@ -17,11 +17,11 @@
 		5BB0BD6B1D4FC4DC0054120F /* TigerTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB0BD6A1D4FC4DC0054120F /* TigerTest.swift */; };
 		A2633FF2488D93443A235173 /* Pods_StructLoveTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C18EFF07EEDF944E8D144540 /* Pods_StructLoveTests.framework */; };
 		B73779881D66A93000EAEC1E /* Coordinate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B73779871D66A93000EAEC1E /* Coordinate.swift */; };
-		B737798A1D66AB4200EAEC1E /* CoordinateTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B73779891D66AB4200EAEC1E /* CoordinateTest.swift */; };
 		B7874C731D66B68F00D9671A /* PizzaDeliveryService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7874C721D66B68F00D9671A /* PizzaDeliveryService.swift */; };
-		B7874C751D66B6D500D9671A /* PizzaDeliveryServiceTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7874C741D66B6D500D9671A /* PizzaDeliveryServiceTest.swift */; };
 		B7874C771D66BC8100D9671A /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7874C761D66BC8100D9671A /* Person.swift */; };
-		B7874C791D66BD5D00D9671A /* PersonTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7874C781D66BD5D00D9671A /* PersonTest.swift */; };
+		F0EEEF431E4BDF3C00238F99 /* PizzaDeliveryServiceTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7874C741D66B6D500D9671A /* PizzaDeliveryServiceTest.swift */; };
+		F0EEEF441E4BE27E00238F99 /* PersonTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7874C781D66BD5D00D9671A /* PersonTest.swift */; };
+		F0EEEF451E4BE2BF00238F99 /* CoordinateTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B73779891D66AB4200EAEC1E /* CoordinateTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -381,9 +381,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BB0BD6B1D4FC4DC0054120F /* TigerTest.swift in Sources */,
-				B737798A1D66AB4200EAEC1E /* CoordinateTest.swift in Sources */,
-				B7874C791D66BD5D00D9671A /* PersonTest.swift in Sources */,
-				B7874C751D66B6D500D9671A /* PizzaDeliveryServiceTest.swift in Sources */,
+				F0EEEF441E4BE27E00238F99 /* PersonTest.swift in Sources */,
+				F0EEEF431E4BDF3C00238F99 /* PizzaDeliveryServiceTest.swift in Sources */,
+				F0EEEF451E4BE2BF00238F99 /* CoordinateTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
